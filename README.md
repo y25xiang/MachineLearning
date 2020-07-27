@@ -9,8 +9,6 @@ This blog includes my study notes when learning machine learning algorithm.
 - **Decision Tree**
 - **Logistic Regression**
 - **Linear Regression**
-- **Lasso Regression**
-- **Ridge Regression**
 - **Support Vector Machine**
 - **EM algorithm**
 - **Hidden Markov Model**
