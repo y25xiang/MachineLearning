@@ -1,3 +1,4 @@
+# Bayes Classifier
 There are many algorithms available to solve a classification problem. In this blog, I will describe the Bayes Classifier. 
 
 The key idea of the Bayes Classifier is to assign each observation to the most likely class given its predictor values (Input). In other words, for each input x, we will have probability for each class j, which can be written as a conditional probability as the following
